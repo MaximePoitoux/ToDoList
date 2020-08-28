@@ -205,6 +205,10 @@ body {
     .underAddToDo {
         margin-top: 20px;
     }
+
+    .add-to-do input {
+        width: auto;
+    }
 }
 
 
